@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a python developer and ML researcher
+I am a python developer and ML, NLP researcher
 
 <!--
 **MahirMahbub/MahirMahbub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirMahbub&langs_count=5&theme=tokyonight)]()
 
+## ⚡ **Technologies**
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
