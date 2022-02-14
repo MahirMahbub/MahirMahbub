@@ -1,6 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-I am a python developer and ML, NLP researcher
+I am a python developer and ML, NLP researcher.
+
+## Contact With Me
+<a href="https://www.linkedin.com/in/mahirmahbub/">
+<img align="left" alt="mahirmahbub | LinkedIn" width="32px" src="https://github.com/MahirMahbub/MahirMahbub/blob/main/linkedin.svg" />
+</a>
+<a href="https://www.researchgate.net/profile/Mahir-Mahbub">
+<img align="left" alt="mahirmahbub | LinkedIn" width="31px" src="https://github.com/MahirMahbub/MahirMahbub/blob/main/researchgate.svg" />
+</a>
+<br>
+ 
+## My Github Stats
+<!-- [linkedin]: https://www.linkedin/in/mahirmahbub/ -->
 
 <!--
 **MahirMahbub/MahirMahbub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
