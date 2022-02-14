@@ -2,16 +2,17 @@
 
 I am a python developer and ML, NLP researcher.
 
-## Contact With Me
+# Contact With Me
 <a href="https://www.linkedin.com/in/mahirmahbub/">
-<img align="left" alt="mahirmahbub | LinkedIn" width="32px" src="https://github.com/MahirMahbub/MahirMahbub/blob/main/linkedin.svg" />
+<img align="left" alt="mahirmahbub | LinkedIn" width="45px" src="https://github.com/MahirMahbub/MahirMahbub/blob/main/linkedin.svg" />
 </a>
 <a href="https://www.researchgate.net/profile/Mahir-Mahbub">
-<img align="left" alt="mahirmahbub | LinkedIn" width="31px" src="https://github.com/MahirMahbub/MahirMahbub/blob/main/researchgate.svg" />
+<img align="left" alt="mahirmahbub | LinkedIn" width="45px" src="https://github.com/MahirMahbub/MahirMahbub/blob/main/researchgate.png" />
 </a>
 <br>
+ <br>
  
-## My Github Stats
+# My Github Stats
 <!-- [linkedin]: https://www.linkedin/in/mahirmahbub/ -->
 
 <!--
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirMahbub&langs_count=5&theme=tokyonight)]()
 
-## ⚡ **Technologies**
+# ⚡ **Technologies**
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
