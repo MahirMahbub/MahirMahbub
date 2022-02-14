@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a python developer and ML, NLP researcher.
+I am a python developer and ML, NLP researcher. I am doing my M.Sc. in Software Engineering from University of Dhaka
 
 # Contact With Me
 <a href="https://www.linkedin.com/in/mahirmahbub/">
@@ -10,7 +10,7 @@ I am a python developer and ML, NLP researcher.
 <img align="left" alt="mahirmahbub | LinkedIn" width="45px" src="https://github.com/MahirMahbub/MahirMahbub/blob/main/researchgate.png" />
 </a>
 <br>
- <br>
+<br>
  
 # My Github Stats
 <!-- [linkedin]: https://www.linkedin/in/mahirmahbub/ -->
@@ -43,9 +43,12 @@ Here are some ideas to get you started:
   <img alt="Docker" src="https://img.shields.io/badge/Docker-CC6699?logo=docker&logoColor=white&style=for-the-badge" />
   <img alt="Django-Rest" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Sqlalchemy" src="https://img.shields.io/badge/sqlalchemy-4A154B?logo=sqlalchemy&logoColor=white&style=for-the-badge" />
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge" />
 
   <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -55,9 +58,20 @@ Here are some ideas to get you started:
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="Celery" src="https://img.shields.io/badge/celery-green?logo=celery&logoColor=white&style=for-the-badge" />
   <img alt="Rabbitmq" src="https://img.shields.io/badge/Rabbitmq-yellow?logo=rabbitmq&logoColor=white&style=for-the-badge" />
+  <img alt="C" src="https://img.shields.io/badge/C-4A154B?logo=c&logoColor=white&style=for-the-badge" />
+  <img alt="CPP" src="https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
 
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img alt="BeautifulSoup" src="https://img.shields.io/badge/beautifulsoup-025E8C?logo=beautifulsoup&logoColor=white&style=for-the-badge" />
   <img alt="Apscheduler" src="https://img.shields.io/badge/apscheduler-blue?logo=apscheduler soup&logoColor=white&style=for-the-badge" />
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white&style=for-the-badge" />
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" />
+
+
+
 </p>
+
+<a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/MahirMahbub/MahirMahbub?color=yellow" alt="Visitors badge" />
+ </a>
