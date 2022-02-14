@@ -1,4 +1,4 @@
-# Hi there I am Mahir Mahbub 👋
+# Hi, I am Mahir Mahbub 👋
 
 ### *I am a python developer and ML, NLP researcher.*
 
