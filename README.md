@@ -1,14 +1,23 @@
-## Hi there 👋
+# Hi there I am Mahir Mahbub 👋
 
-I am a python developer and ML, NLP researcher. I am doing my M.Sc. in Software Engineering from University of Dhaka
+### *I am a python developer and ML, NLP researcher.*
+
+🎓  I am doing my M.Sc. in Software Engineering from University of Dhaka. I have completed by B.Sc in Software Engineering from the same Institute.
+
+Previously I had done 6 months Internship at Samsung R&D Institute, Bangladesh as a Intern Software Engineer. Then I worked as Associate Software Engineer at Kaz Software for 14 months and there I was involved as a python backend developer.
 
 # Contact With Me
+<a href="mailto:bsse0807@iit.du.ac.bd">
+<img align="left" alt="mahirmahbub | GMAIL" width="50px" src="https://github.com/MahirMahbub/MahirMahbub/blob/main/gmail.svg" />
+</a>
 <a href="https://www.linkedin.com/in/mahirmahbub/">
 <img align="left" alt="mahirmahbub | LinkedIn" width="45px" src="https://github.com/MahirMahbub/MahirMahbub/blob/main/linkedin.svg" />
 </a>
+
 <a href="https://www.researchgate.net/profile/Mahir-Mahbub">
 <img align="left" alt="mahirmahbub | LinkedIn" width="45px" src="https://github.com/MahirMahbub/MahirMahbub/blob/main/researchgate.png" />
 </a>
+
 <br>
 <br>
  
