@@ -1,10 +1,10 @@
 # Hi, I am Mahir Mahbub 👋
 
-### *I am a python developer and ML, NLP researcher.*
+### *I am a python developer and ML, NLP researcher.* 
 
 🎓  I am doing my M.Sc. in Software Engineering from <a href="https://iit.du.ac.bd" title="IIT DU">IIT, University of Dhaka</a>. I have completed by B.Sc in Software Engineering from the same Institute.
 
-I am a Software Engineer at <a href="https://ixorasolution.com/" title="iXora Solution Ltd">iXora Solution Ltd</a>. Previously I had done 6 months Internship at <a href="https://research.samsung.com/srbd" title="Kaz Software">Samsung R&D Institute, Bangladesh </a> as a Intern Software Engineer. Then I worked as Associate Software Engineer at <a href="https://kaz.com.bd/" title="Kaz Software">Kaz Software</a> for 14 months and there I was involved as a python backend developer.
+👨‍💻 I am a Software Engineer at <a href="https://ixorasolution.com/" title="iXora Solution Ltd">iXora Solution Ltd</a>. Previously I had done 6 months Internship at <a href="https://research.samsung.com/srbd" title="Kaz Software">Samsung R&D Institute, Bangladesh </a> as a Intern Software Engineer. Then I worked as Associate Software Engineer at <a href="https://kaz.com.bd/" title="Kaz Software">Kaz Software</a> for 14 months and there I was involved as a python backend developer.
 
 
 # Contact With Me
