@@ -49,10 +49,12 @@ Here are some ideas to get you started:
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-white?logo=Go&logoColor=blue&style=for-the-badge" />
+  <img alt="Django-Rest" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-lang-white?logo=Go&logoColor=blue&style=for-the-badge" />
+  <img alt="Gin" src="https://img.shields.io/badge/Gin-blue?logo=Go&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-CC6699?logo=docker&logoColor=white&style=for-the-badge" />
-  <img alt="Django-Rest" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Sqlalchemy" src="https://img.shields.io/badge/sqlalchemy-4A154B?logo=sqlalchemy&logoColor=white&style=for-the-badge" />
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
