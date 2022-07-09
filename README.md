@@ -49,6 +49,7 @@ Here are some ideas to get you started:
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-white?logo=Go&logoColor=blue&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-CC6699?logo=docker&logoColor=white&style=for-the-badge" />
   <img alt="Django-Rest" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
