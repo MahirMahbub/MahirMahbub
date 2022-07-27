@@ -85,4 +85,4 @@ Here are some ideas to get you started:
 
 </p>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMahirMahbub&label=Visitors&countColor=%23263759)
+![Badge](https://visitor-counter-badge.vercel.app/api/MahirMahbub/MahirMahbub/)
