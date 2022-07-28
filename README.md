@@ -85,4 +85,6 @@ Here are some ideas to get you started:
 
 </p>
 
+[![Mahir's github activity graph](https://activity-graph.herokuapp.com/graph?username=MahirMahbub&custom_title=My%20Commit%20History&hide_border=true&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MahirMahbub.MahirMahbub)
