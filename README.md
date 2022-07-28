@@ -67,21 +67,15 @@ Here are some ideas to get you started:
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="BeautifulSoup" src="https://img.shields.io/badge/beautifulsoup-025E8C?logo=beautifulsoup&logoColor=white&style=for-the-badge" />
+  <img alt="Apscheduler" src="https://img.shields.io/badge/apscheduler-blue?logo=apscheduler soup&logoColor=white&style=for-the-badge" />
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="Celery" src="https://img.shields.io/badge/celery-green?logo=celery&logoColor=white&style=for-the-badge" />
   <img alt="Rabbitmq" src="https://img.shields.io/badge/Rabbitmq-yellow?logo=rabbitmq&logoColor=white&style=for-the-badge" />
   <img alt="C" src="https://img.shields.io/badge/C-4A154B?logo=c&logoColor=white&style=for-the-badge" />
   <img alt="CPP" src="https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-
-  <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img alt="BeautifulSoup" src="https://img.shields.io/badge/beautifulsoup-025E8C?logo=beautifulsoup&logoColor=white&style=for-the-badge" />
-  <img alt="Apscheduler" src="https://img.shields.io/badge/apscheduler-blue?logo=apscheduler soup&logoColor=white&style=for-the-badge" />
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white&style=for-the-badge" />
-  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" />
-
-
 
 </p>
 
