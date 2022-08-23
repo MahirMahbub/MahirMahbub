@@ -1,4 +1,4 @@
-# Hi, I am Mahir Mahbub 👋
+## Hi, I am Mahir Mahbub 👋
 
 ### *I am a python developer and ML, NLP researcher.* 
 
@@ -7,7 +7,7 @@
 👨‍💻 I am a Software Engineer at <a href="https://ixorasolution.com/" title="iXora Solution Ltd">iXora Solution Ltd</a>. Previously I had done 6 months Internship at <a href="https://research.samsung.com/srbd" title="Kaz Software">Samsung R&D Institute, Bangladesh </a> as a Intern Software Engineer. Then I worked as Associate Software Engineer at <a href="https://kaz.com.bd/" title="Kaz Software">Kaz Software</a> for 14 months and there I was involved as a python backend developer.
 
 
-# Contact With Me
+## Contact With Me
 <a href="mailto:bsse0807@iit.du.ac.bd">
 <img align="left" alt="mahirmahbub | GMAIL" width="50px" src="https://github.com/MahirMahbub/MahirMahbub/blob/main/gmail.svg" />
 </a>
@@ -22,7 +22,7 @@
 <br>
 <br>
  
-# My Github Stats
+## My Github Stats
 <!-- [linkedin]: https://www.linkedin/in/mahirmahbub/ -->
 
 <!--
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirMahbub&langs_count=5&theme=tokyonight&hide=jupyter%20notebook&langs_count=9&layout=compact)]()
 
-# ⚡ **Technologies**
+## ⚡ **Technologies**
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -77,6 +77,19 @@ Here are some ideas to get you started:
   <img alt="C" src="https://img.shields.io/badge/C-4A154B?logo=c&logoColor=white&style=for-the-badge" />
   <img alt="CPP" src="https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
 
+</p>
+
+## What companies have I worked for?
+<p left="center">
+  <a href="https://ixorasolution.com/">
+    <img src="https://ixorasolution.com/images/ixora/ixora-logo.png" height=50>
+    </a> 
+  <a href="https://kaz.com.bd/">
+    <img src="https://images.squarespace-cdn.com/content/50bc7918e4b012760ae18af1/1372067641380-XPEZPUMN5G2B3U7HM919/logo.png?format=100w&content-type=image%2Fpng" height=50>
+  </a>
+  <a href="https://research.samsung.com/srbd">
+    <img src="https://cdn.codeground.org/nsr/images/layout/logo-sr.png" weight=50 height=30> 
+  </a>
 </p>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MahirMahbub.MahirMahbub)
