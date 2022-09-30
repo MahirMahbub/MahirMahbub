@@ -52,11 +52,13 @@ Here are some ideas to get you started:
   <img alt="Django-Rest" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
   <img alt="Go" src="https://img.shields.io/badge/Go-lang-white?logo=Go&logoColor=blue&style=for-the-badge" />
   <img alt="Gin" src="https://img.shields.io/badge/Gin-blue?logo=Go&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-CC6699?logo=docker&logoColor=white&style=for-the-badge" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+  <img alt="Celery" src="https://img.shields.io/badge/celery-green?logo=celery&logoColor=white&style=for-the-badge" />
 
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Sqlalchemy" src="https://img.shields.io/badge/sqlalchemy-4A154B?logo=sqlalchemy&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -72,8 +74,8 @@ Here are some ideas to get you started:
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-  <img alt="Celery" src="https://img.shields.io/badge/celery-green?logo=celery&logoColor=white&style=for-the-badge" />
   <img alt="Rabbitmq" src="https://img.shields.io/badge/Rabbitmq-yellow?logo=rabbitmq&logoColor=white&style=for-the-badge" />
+  <img alt="Terrafrom" src="https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white&style=for-the-badge" />
   <img alt="C" src="https://img.shields.io/badge/C-4A154B?logo=c&logoColor=white&style=for-the-badge" />
   <img alt="CPP" src="https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
 
