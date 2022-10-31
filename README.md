@@ -85,6 +85,7 @@ Here are some ideas to get you started:
  * <a href="https://www.linkedin.com/pulse/deploying-django-celery-amazon-sqs-aws-elastic-beanstalk-mahir-mahbub/">Deploying Django + Celery + Amazon SQS to AWS Elastic Beanstalk with Amazon Linux 2
 </a>
 
+<img alt="Python" src="https://github.com/MahirMahbub/MahirMahbub/blob/main/blog1.PNG" />
 ## What companies have I worked for?
 <p left="center">
   <a href="https://ixorasolution.com/">
