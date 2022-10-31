@@ -81,6 +81,10 @@ Here are some ideas to get you started:
 
 </p>
 
+## 📙 Blog Posts
+ * <a href="https://dev.to/sandboa/deploying-django-celery-amazon-sqs-to-aws-elastic-beanstalk-with-amazon-linux-2-442m">Deploying Django + Celery + Amazon SQS to AWS Elastic Beanstalk with Amazon Linux 2
+</a>
+
 ## What companies have I worked for?
 <p left="center">
   <a href="https://ixorasolution.com/">
