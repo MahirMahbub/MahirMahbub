@@ -84,8 +84,11 @@ Here are some ideas to get you started:
 ## 📙 Blog Posts
  * <a href="https://www.linkedin.com/pulse/deploying-django-celery-amazon-sqs-aws-elastic-beanstalk-mahir-mahbub/">Deploying Django + Celery + Amazon SQS to AWS Elastic Beanstalk with Amazon Linux 2
 </a>
-
+ 
+ * <a href="https://www.linkedin.com/pulse/sync-postgres-elasticsearch-using-elk-stack-searching-mahir-mahbub/">Sync Postgres and ELK and Advanced Searching with Elasticsearch in GIN (Part-1)
+</a>
 <!-- <img alt="Python" src="https://github.com/MahirMahbub/MahirMahbub/blob/main/blog1.PNG" /> -->
+
 ## What companies have I worked for?
 <p left="center">
   <a href="https://ixorasolution.com/">
