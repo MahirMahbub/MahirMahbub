@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MahirMahbub&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://readme-stats.clckblog.space/api/?username=MahirMahbub&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirMahbub&langs_count=7&theme=tokyonight&hide=jupyter%20notebook&langs_count=9&layout=compact)]()
+[![My GitHub Language Stats](https://readme-stats.clckblog.space/api/top-langs/?username=MahirMahbub&langs_count=7&theme=tokyonight&hide=jupyter%20notebook&langs_count=9&layout=compact)]()
 
 ## ⚡ **Technologies**
 
