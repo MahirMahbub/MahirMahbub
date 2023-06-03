@@ -104,4 +104,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MahirMahbub.MahirMahbub)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MahirMahbub.MahirMahbub) -->
+![](https://komarev.com/ghpvc/?username=MahirMahbub)
