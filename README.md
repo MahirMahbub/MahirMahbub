@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 ## What companies have I worked for?
 <p left="center">
   <a href="https://ixorasolution.com/">
-    <img src="https://ixorasolution.com/images/ixora/ixora-logo.png" height=50>
+    <img src="https://ixorasolution.com/wp-content/uploads/iXora_logo_w.png" height=50>
     </a> 
   <a href="https://kaz.com.bd/">
     <img src="https://images.squarespace-cdn.com/content/50bc7918e4b012760ae18af1/1372067641380-XPEZPUMN5G2B3U7HM919/logo.png?format=100w&content-type=image%2Fpng" height=50>
