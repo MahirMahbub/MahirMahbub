@@ -91,6 +91,9 @@ Here are some ideas to get you started:
  * <a href="https://www.linkedin.com/pulse/sync-postgres-elk-advanced-searching-elasticsearch-gin-mahir-mahbub/">Sync Postgres and ELK and Advanced Searching with Elasticsearch in GIN (Part-2)
 </a>
 
+ * <a href="https://www.linkedin.com/pulse/sync-postgres-elk-advanced-searching-elasticsearch-gin-mahir-mahbub-1c/">Sync Postgres and ELK and Advanced Searching with Elasticsearch in GIN (Part-3)
+</a>
+
 ## What companies have I worked for?
 <p left="center">
   <a href="https://ixorasolution.com/">
